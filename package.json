@@ -63,7 +63,7 @@
         "lodash": "^4.17.21",
         "lowdb": "^2.1.0",
         "moment-timezone": "^0.5.37",
-        "mongoose": "^6.0.14",
+        "mongoose": "^8.8.3",
         "node-fetch": "3.0.0-beta.9",
         "node-gtts": "2.0.2",
         "node-os-utils": "^1.3.6",
